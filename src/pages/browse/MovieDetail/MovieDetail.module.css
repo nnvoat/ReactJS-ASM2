@@ -1,0 +1,14 @@
+.detailmain {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  color: white;
+}
+
+.detaildiv {
+  padding: 0 1.5rem;
+}
+
+.bodertop {
+  border-top: 1px solid white;
+}

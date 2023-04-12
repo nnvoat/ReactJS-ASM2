@@ -1,0 +1,18 @@
+.navbarmain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.navbarmain div {
+  padding: 0 1rem;
+}
+
+.navbarmain div p {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: red;
+  cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.searchmain {
+  width: 50%;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.flex1 {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #74c0fc;
+  padding: 1.5rem 0;
+}
+
+.flex1 input {
+  border: none;
+}
+
+.inputsearch {
+  border-color: #fff;
+  background-color: #fff;
+  margin-left: 1rem;
+}
+
+.iconsearch {
+  font-size: 1.3rem;
+  margin-right: 1rem;
+  color: #ced4da;
+  cursor: pointer;
+}
+
+.flex2 {
+  display: flex;
+  padding: 1.5rem;
+  justify-content: flex-end;
+}
+
+.flex2 button {
+  border: none;
+  cursor: pointer;
+}
+
+.btnreset {
+  background-color: white;
+  border-color: white;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.btnsearch {
+  background-color: #74c0fc;
+  border-color: #74c0fc;
+  color: white;
+  padding: 0.5rem 1rem;
+}

@@ -1,0 +1,30 @@
+.moviemain h3 {
+  color: white;
+  margin-left: 1rem;
+}
+
+.imgposter_path {
+  width: 10%;
+}
+
+.imgbackdrop_path {
+  width: 12%;
+}
+
+.customizeimg {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: auto;
+  margin: 0 1rem;
+}
+
+.customizeimg img {
+  padding: 0 0.3rem;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.customizeimg img:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}

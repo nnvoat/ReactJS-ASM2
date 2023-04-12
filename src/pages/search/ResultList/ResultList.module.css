@@ -1,0 +1,28 @@
+.imgstyle {
+  width: 10%;
+  padding: 1rem 0.5rem;
+}
+
+.resultmain h2 {
+  color: white;
+  margin-left: 1rem;
+}
+
+.resultmain img {
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.resultmain img:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.errorr {
+  color: red;
+  margin-left: 2rem;
+}
+
+.hidden {
+  display: none;
+}
