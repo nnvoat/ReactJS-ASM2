@@ -16,13 +16,13 @@
   justify-content: space-between;
   overflow-x: auto;
   margin: 0 1rem;
-  cursor: pointer;
 }
 
 .customizeimg img {
   padding: 0 0.3rem;
   -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 .customizeimg img:hover {
